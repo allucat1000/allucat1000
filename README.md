@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Allucat1000.</h2>
+<h2 align="center">Hey there, I'm Allucat1000!</h2>
 
 <h3 align="center">Here are some languages I know:</h3>
 <div align="center">
