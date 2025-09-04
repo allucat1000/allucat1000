@@ -7,8 +7,10 @@
   <p>CSS (Low Intermediate)</p>
   <p>TurboWarp/Scratch (Expert)</p>
   <p>Brainfuck (Beginner)</p>
+  <p>Python (Beginner)</p>
 </div>
 <h3 align="center">Here are some of my active projects</h3>
 <div align="center">
   <h3><a href="https://allucat1000.github.io/HuopaOS">HuopaOS</a></h3>
+  <h3><a href="https://allucat1000.github.io/HuopaProxy">Huopa Proxy</a></h3>
 </div>
